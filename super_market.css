@@ -1,0 +1,16 @@
+nav {
+    background-color: #D7E5E8;
+    height: 75px;
+    width: auto;
+    
+}
+nav ul a {
+    text-align: center;
+    color:  green;
+    float: right;
+    font-family: poppins;
+    font-weight: 900;
+    margin-top: 27px;
+    margin-right: 16px;
+    text-decoration: none;
+}
