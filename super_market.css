@@ -26,4 +26,67 @@ h1{
     float: left;
     color: yellow;
 }
+.first_section{
+    min-width: 100%;
+    min-height: auto;
+    background-color: white;
+
+}
+h2{
+    padding-top: 25px;
+    padding-left: 6%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 27px;
+}
+.first_div{
+    min-width: 366px;
+    min-height: 205.34px;
+    float: left;
+    margin-left: 6%; 
+    
+    
+}
+.second_div{
+    min-width: 366px;
+    min-height: 205.34px;
+    float: left;
+    margin-left: 6.7%;
+}
+.third_div{
+    min-width: 366px;
+    min-height: 205.34px;
+    float: left;
+    margin-left: 6.7%;
+}
+p1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    padding-top: 2%;
+    padding-left: 6%;
+    float: left;
+    align-items: flex-end;
+    width: 86%;
+}
+.read_more_btn{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    height: 49px;
+    color: white;
+    float: left;
+    margin-left: 6%;
+    text-align: center;
+    display: flex;
+    margin-top: 30px;
+    padding-top: 10px;
+    border-radius: 5px;
+    background-color: yellow;
+    border: 0px;
+    
+}
+
+ 
+ 
  
